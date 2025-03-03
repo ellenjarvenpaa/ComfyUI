@@ -13,6 +13,9 @@ Used these models for workflows. <br>
 # Workflow 1
 Workflow designed to turn pictures made with paint into more realistic pictures. Workflow made with [this tutorial](https://stable-diffusion-art.com/comfyui/#Image-to-image_workflow).
 
+Picture made with paint:
 ![Image made with paint](./Workflow_1/possu.png)
-![Result from workflow](./Workflow_1/possu.png)
+
+Result from workflow:
+![Result from workflow](./Workflow_1/ComfyUI_00006_.png)
 

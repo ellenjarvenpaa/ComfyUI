@@ -1,4 +1,4 @@
-## ComfyUI
+# ComfyUI
 
 # Getting started
 Downloaded ComfyUI from [ComfyUI's GitHub](https://github.com/comfyanonymous/ComfyUI?tab=readme-ov-file)

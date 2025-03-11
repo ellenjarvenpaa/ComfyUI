@@ -11,7 +11,7 @@ Used these models for workflows. <br>
 [Juggernaut](https://civitai.com/models/46422/juggernaut)
 
 # Workflow 1
-Workflow designed to turn pictures made with paint into more realistic pictures. Workflow made with [this tutorial](https://stable-diffusion-art.com/comfyui/#Image-to-image_workflow).
+Workflow designed to generate an image based on the prompt AND an input image. Workflow made with [this tutorial](https://stable-diffusion-art.com/comfyui/#Image-to-image_workflow).
 
 Picture made with paint:
 ![Image made with paint](./Workflow_1/possu.png)

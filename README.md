@@ -19,3 +19,8 @@ Picture made with paint:
 Result from workflow:
 ![Result from workflow](./Workflow_1/ComfyUI_00006_.png)
 
+# Workflow 2
+Workflow designed to turn text prompt into image.
+
+Result from workflow:
+![Result from workflow](./Workflow_2/ComfyUI_00009_.png)
